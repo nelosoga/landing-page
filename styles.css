@@ -108,7 +108,6 @@ button {
 }
 
 .thor-text {
-    outline: solid 1px rgb(246, 2, 193);
     display: flex;
     flex-direction: row;
     justify-content: center;
@@ -126,7 +125,6 @@ button {
 }
 
 .thor-signature {
-    outline: solid 1px green;
     display: flex;
     justify-content: flex-end;
     font-weight: bold;
