@@ -31,7 +31,6 @@ h2 {
 }
 
 .header {
-    outline: solid 1px red;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -51,18 +50,15 @@ h2 {
 }
 
 .info {
-    outline: solid 1px red;
     display: flex;
     justify-content: space-between;
 }
 
 .info-right {
-    outline: solid 1px red;
 }
 
 
 .info-left {
-    outline: solid 1px red;
 
 }
 
