@@ -103,9 +103,6 @@ a {
 
 }
 
-.body {
-    max-height: 50em;
-}
 
 .random {
     font-size: 36px;
@@ -194,4 +191,8 @@ footer {
     padding: 20px;
     color: #e5e7eb;
     font-weight: lighter;
+}
+
+.body {
+    min-height: 30vh;
 }
