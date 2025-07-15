@@ -10,12 +10,15 @@ body {
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
+    min-height: 100vh;
+
 }
 
 a {
     text-decoration: none;
     color: #e5e7eb;
 }
+
 
 .button {
     background-color: #3882f6;
@@ -179,4 +182,17 @@ a {
     display: flex;
     justify-content: center;
     height: 20px;
+}
+
+footer {
+    margin-top: auto;
+}
+
+.footer {
+    outline: solid 1px red;
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    color: #e5e7eb;
+    font-weight: lighter;
 }
