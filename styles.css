@@ -189,7 +189,6 @@ footer {
 }
 
 .footer {
-    outline: solid 1px red;
     display: flex;
     justify-content: center;
     padding: 20px;
